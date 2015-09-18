@@ -1,0 +1,39 @@
+Checking IDE Installations and User Accounts
+
+GitHub/GitHub Desktop
+
+HTML structure / CSS embedded and linked externally
+
+Font-families -> intro to CSS
+
+Font-size -> units px, em, rem
+
+Lists: http://www.htmlandcssbook.com/code-samples/chapter-03
+
+Images
+
+Tables
+
+Typography: https://algonquin.instructure.com/courses/378201/pages/css-units-of-measure-for-fonts?module_item_id=7619472
+
+Block elements
+
+Links - absolute and relative path to the file 
+
+Project structure 
+./index.html
+../index.html
+
+Domain:
+    www.example.com
+        ".com" is called top-level-domain or TLD or domain extension
+        "example" is called second-level-domain or SLD
+        "www" is called subdomain
+        
+Sub domain:
+    www
+    A subdomain is an easy way to create a memorable Web address 
+    for unique content areas of your site. 
+    For example, you could create a subdomain for pictures on your site called "pics" 
+    that is accessible through the URL pics.example.com in addition to www.example.com/pics.
+    https://www.youtube.com/watch?t=190&v=Ae00NNuB8CE
